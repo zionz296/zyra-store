@@ -1,0 +1,21 @@
+{
+ "products": [
+  {
+   "id": "pc-gamer-plataforma-amd-ryzen-5-5500-rtx-3050",
+   "name": "PC Gamer Plataforma AMD Ryzen 5 5500, RTX 3050",
+   "brand": "",
+   "model": "",
+   "cat": "pc-gamer",
+   "stock": "Em estoque",
+   "price": 5622.15,
+   "promo": 5116.16,
+   "feat": false,
+   "promoFlag": true,
+   "desc": "Processador AMD Ryzen 5 5500 3.6GHz (4.2GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, Sem Vídeo Integrado\nPlaca Mãe ASRock A520M-HVS, A520, AMD AM4, mATX, DDR4\nMemória DDR4 Spectrum Blitz, 8GB, 3200MHz, Preto\nPlaca de Vídeo PCYES NVIDIA GeForce RTX 3050 Projeto Edge, 6GB, GDDR6, DLSS, Ray Tracing, Branco\nCooler Para Processador Rise Mode G800, 90mm, RGB, Intel-AMD\nFonte Fortrek Crusader, 500W, Bivolt, Branca\nGabinete Gamer Ninja Akyra X2 White, Mid Tower, Vidro Temperado, M-ATX, Com 2 Fans, Sem Fonte, Branco\nOBS!!!!(Sem SSD ou HD)",
+   "specs": "",
+   "imgs": [],
+   "updated": 1794840223291
+  }
+ ],
+ "categories": []
+}
