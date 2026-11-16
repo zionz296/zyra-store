@@ -1,0 +1,12 @@
+ZYRA STORE - site estático
+
+COMO USAR
+1. Hospede a pasta em qualquer hospedagem estática (Netlify, Vercel, GitHub Pages, Cloudflare Pages ou a sua) ou teste local com: python -m http.server  (e abra http://localhost:8000).
+2. Abra o site e acesse /#admin. Na primeira vez, crie a senha do administrador.
+3. Cadastre categorias e produtos. Os dados ficam no navegador do administrador.
+4. Para os clientes verem os produtos: no painel, aba Produtos, clique em "Exportar catálogo", e substitua o arquivo produtos.json no site publicado.
+
+IMPORTANTE
+- Preços de custo e pedidos NUNCA vão para o produtos.json; ficam só no navegador do administrador (faça o registro sempre no mesmo navegador/computador).
+- A senha do painel protege apenas a interface neste navegador; não é segurança de servidor. Para vários administradores, dados compartilhados e segurança real, migre para Supabase.
+- O WhatsApp de destino está na constante WA, no início do script do index.html.
